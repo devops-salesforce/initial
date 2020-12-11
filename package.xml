@@ -2,6 +2,7 @@
     <version>49.0</version>
     <types>
         <members>Hijack</members>
+        <members>Hijack1</members>
         <name>ApexClass</name>
     </types>
     <types>
